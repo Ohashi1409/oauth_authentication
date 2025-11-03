@@ -8,6 +8,8 @@ Explore os conceitos fundamentais do OAuth 2.0:
 
 ### Conteúdo Principal
 
+**[📋 Guia Rápido de Referência](docs/guia-rapido.md)** - Cheat sheet com os conceitos essenciais
+
 1. **[O que é OAuth?](docs/o-que-e-oauth.md)**
    - Introdução ao OAuth
    - História e evolução
@@ -64,10 +66,11 @@ Para adicionar sua apresentação:
 
 Se você é novo no OAuth, recomendamos seguir esta ordem:
 
-1. Comece com **[O que é OAuth?](docs/o-que-e-oauth.md)** para entender os conceitos básicos
-2. Explore os **[Fluxos de Autorização](docs/fluxos-oauth.md)** para conhecer as diferentes formas de implementar OAuth
-3. Leia sobre **[Segurança](docs/seguranca-oauth.md)** para entender como proteger sua implementação
-4. Veja os **[Exemplos Práticos](docs/implementacao-oauth.md)** para implementar OAuth em seus projetos
+1. Veja o **[Guia Rápido](docs/guia-rapido.md)** para uma visão geral dos conceitos
+2. Comece com **[O que é OAuth?](docs/o-que-e-oauth.md)** para entender os conceitos básicos
+3. Explore os **[Fluxos de Autorização](docs/fluxos-oauth.md)** para conhecer as diferentes formas de implementar OAuth
+4. Leia sobre **[Segurança](docs/seguranca-oauth.md)** para entender como proteger sua implementação
+5. Veja os **[Exemplos Práticos](docs/implementacao-oauth.md)** para implementar OAuth em seus projetos
 
 ## 📖 Recursos Adicionais
 
