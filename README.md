@@ -97,3 +97,4 @@ Sinta-se à vontade para contribuir com este repositório:
 ## 📝 Licença
 
 Este repositório é de código aberto e está disponível para fins educacionais.
+Repositório para armazenar links de apresentação e códigos desenvolvidos para serem apresentados durante a apresentação sobre OAuth Authentication
